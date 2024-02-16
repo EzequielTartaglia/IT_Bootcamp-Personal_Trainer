@@ -18,6 +18,7 @@ git config --global user.name
 # Verificar email
 git config --global user.email
 ```
+
 #### Inicializar repositorio
 
 ```bash
@@ -36,3 +37,11 @@ git commit -m "Initial Commit"
 git branch -m master main
 ```
 
+#### Utilizar otro repositorio (clonar)
+
+Nota: Recuerda logearte en tu cuenta de github desde el Visual Studio Code (abajo a la izquierda)
+
+```bash
+# Clonar repositorio
+git clone https://github.com/UsuarioGithub/´NombreDelProyecto.git
+```
