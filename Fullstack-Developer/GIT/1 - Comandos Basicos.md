@@ -45,4 +45,3 @@ Nota: Recuerda logearte en tu cuenta de github desde el Visual Studio Code (abaj
 # Clonar repositorio
 git clone https://github.com/UsuarioGithub/´NombreDelProyecto.git
 ```
-.
