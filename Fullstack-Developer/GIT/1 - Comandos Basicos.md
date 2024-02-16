@@ -34,6 +34,5 @@ git commit -m "Initial Commit"
 ```bash
 # Cambiar nombre de rama principal de master a main
 git branch -m master main
-git push -u origin main
 ```
 
